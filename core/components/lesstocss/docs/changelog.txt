@@ -1,0 +1,5 @@
+Changelog for lesstocss.
+
+getPage 1.0.0 (Feb 04, 2014)
+====================================
+- Initial release
